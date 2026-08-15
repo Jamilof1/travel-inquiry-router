@@ -2,6 +2,11 @@
 
 Collect travel requirements once, create a usable brief, and route it to the right specialist workflow. Project 09 in the Jamil Darwish Automation Lab.
 
+[![Verify](https://github.com/Jamilof1/travel-inquiry-router/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Jamilof1/travel-inquiry-router/actions/workflows/ci.yml)
+[View in Jamil Darwish's portfolio](https://jamildarwish.com/#automation-lab) · [MIT License](./LICENSE)
+
+![Travel Inquiry Router interface](./public/preview.png)
+
 ## Modes
 
 - **Demo:** visible local rules determine readiness, priority, region, and desk.
